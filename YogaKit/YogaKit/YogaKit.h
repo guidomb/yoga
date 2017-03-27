@@ -2,8 +2,8 @@
 //  YogaKit.h
 //  YogaKit
 //
-//  Created by Guido Marucci Blas on 3/26/17.
-//  Copyright © 2017 Guido Marucci Blas. All rights reserved.
+//  Created by Guido Marucci Blas on 3/27/17.
+//  Copyright © 2017 Facebook. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

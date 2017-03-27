@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9D0DCBFA1E88772500C6C7FE"
+               BlueprintIdentifier = "9D0DCDCF1E894CE400C6C7FE"
                BuildableName = "YogaKit.framework"
                BlueprintName = "YogaKit"
                ReferencedContainer = "container:YogaKit.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9D0DCC031E88772600C6C7FE"
+               BlueprintIdentifier = "9D0DCDD81E894CE400C6C7FE"
                BuildableName = "YogaKitTests.xctest"
                BlueprintName = "YogaKitTests"
                ReferencedContainer = "container:YogaKit.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9D0DCBFA1E88772500C6C7FE"
+            BlueprintIdentifier = "9D0DCDCF1E894CE400C6C7FE"
             BuildableName = "YogaKit.framework"
             BlueprintName = "YogaKit"
             ReferencedContainer = "container:YogaKit.xcodeproj">
@@ -64,7 +64,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9D0DCBFA1E88772500C6C7FE"
+            BlueprintIdentifier = "9D0DCDCF1E894CE400C6C7FE"
             BuildableName = "YogaKit.framework"
             BlueprintName = "YogaKit"
             ReferencedContainer = "container:YogaKit.xcodeproj">
@@ -82,7 +82,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9D0DCBFA1E88772500C6C7FE"
+            BlueprintIdentifier = "9D0DCDCF1E894CE400C6C7FE"
             BuildableName = "YogaKit.framework"
             BlueprintName = "YogaKit"
             ReferencedContainer = "container:YogaKit.xcodeproj">
